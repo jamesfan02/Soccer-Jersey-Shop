@@ -14,7 +14,7 @@ Django Website which uses URL Mapping to model soccer apparel shopping through H
 - CSS
 
 ### Final Result:
-[![Screen-Shot](https://i.postimg.cc/Wqtz7R3j/Screen-Shot-2021-07-28-at-11-28-50-PM.png)](https://postimg.cc/Wqtz7R3j)
+[![Screen-Shot](https://i.postimg.cc/d0fpjcXT/Screen-Shot-2021-07-28-at-11-29-18-PM.png)](https://postimg.cc/TyrtTFTR)
 
 
 ### To Do List:
