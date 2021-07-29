@@ -1,5 +1,6 @@
 # Soccer-Jersey-Shop
-Django Website which uses URL Mapping to model soccer apparel shopping through HTML templates and Bootstrap rendering cards
+This project is a soccer apparel shopping website. The goal is to display prices, stock, and images of products to create an immersive shopping experience. It uses 
+Django and URL mapping model apparel through HTML templates and Bootstrap rendering cards.
 
 ### Approach:
 1. Mapped various URLs and the root url to to View Functions
